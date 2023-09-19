@@ -1,0 +1,4 @@
+City: SAN GIL
+Most Probable Wind Speed (Mode): 0.328171207172322
+Wind Speed for Max Wind Energy: 1.4164227132147762
+

@@ -1,0 +1,4 @@
+City: POPAYÁN
+Most Probable Wind Speed (Mode): 0.9005899868704281
+Wind Speed for Max Wind Energy: 2.3084082646167614
+
